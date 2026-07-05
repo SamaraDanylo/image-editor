@@ -1,0 +1,11 @@
+html,
+body,
+#app {
+  height: 100%;
+  margin: 0;
+}
+
+/* An editor is an app, not a document — no page scrollbar. */
+html {
+  overflow-y: hidden !important;
+}
